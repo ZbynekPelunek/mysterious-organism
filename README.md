@@ -3,7 +3,7 @@
 ## General info
 
 This project is part of **Codecademy** learning of Javascript using objects, methods, loops.
-The aim was to create object factory that creates object with methods:
+The aim was to create factory function that creates object with methods:
 
 * mutate() - Takes the DNA of the organism and changes one of the bases to different one.
 * compare(organism) - Compares current organism with the one in the parameter, logs % of similarity.
